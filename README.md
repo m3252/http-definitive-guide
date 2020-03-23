@@ -9,6 +9,6 @@
 >>[4장] [커넥션 관리](https://github.com/m3252/http-definitive-guide/wiki/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-1%EB%B6%80-%5B4%EC%9E%A5-%EC%BB%A4%EB%84%A5%EC%85%98-%EA%B4%80%EB%A6%AC%5D)  
 
 >## HTTP 완벽가이드 2부 : HTTP 아키텍처  
->>[5장] [웹 서버](https://github.com/m3252/http-definitive-guide/wiki/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-1%EB%B6%80-%5B5%EC%9E%A5-%EC%9B%B9-%EC%84%9C%EB%B2%84%5D)  
+>>[5장] [웹 서버](https://github.com/m3252/http-definitive-guide/wiki/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-2%EB%B6%80-%5B5%EC%9E%A5-%EC%9B%B9-%EC%84%9C%EB%B2%84%5D)  
 
 
