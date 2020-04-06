@@ -15,4 +15,4 @@
 >>[캐시 부록] [캐시 메모리](https://github.com/m3252/http-definitive-guide/wiki/%EC%BA%90%EC%8B%9C-%EB%B6%80%EB%A1%9D-%5B%EC%BA%90%EC%8B%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%5D)  
 
 >## HTTP 완벽가이드 3부 : 식별, 인가, 보안
->>[11장] [클라이언트 식별과 쿠키]()  
+>>[11장] [클라이언트 식별과 쿠키](https://github.com/m3252/http-definitive-guide/wiki/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-3%EB%B6%80-%5B11%EC%9E%A5-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%8B%9D%EB%B3%84%EA%B3%BC-%EC%BF%A0%ED%82%A4%5D)    
