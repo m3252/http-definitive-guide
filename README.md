@@ -19,4 +19,4 @@
 
 >## 부록
 >>[캐시 부록] [캐시 메모리](https://github.com/m3252/http-definitive-guide/wiki/%EC%BA%90%EC%8B%9C-%EB%B6%80%EB%A1%9D-%5B%EC%BA%90%EC%8B%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%5D)  
->>[HTTP 부록] [HTTP 더알아보기](https://github.com/m3252/http-definitive-guide/wiki/%5BHTTP-%EB%B6%80%EB%A1%9D%5D-HTTP-%EB%B2%84%EC%A0%84%EA%B3%BC-%EC%BB%A4%EB%84%A5%EC%85%98)  
+>>[HTTP 부록] [HTTP 더 알아보기](https://github.com/m3252/http-definitive-guide/wiki/%5BHTTP-%EB%B6%80%EB%A1%9D%5D-HTTP-%EB%B2%84%EC%A0%84%EA%B3%BC-%EC%BB%A4%EB%84%A5%EC%85%98)  
