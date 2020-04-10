@@ -16,7 +16,7 @@
 >## HTTP 완벽가이드 3부 : 식별, 인가, 보안
 >>[11장] [클라이언트 식별과 쿠키](https://github.com/m3252/http-definitive-guide/wiki/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-3%EB%B6%80-%5B11%EC%9E%A5-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%8B%9D%EB%B3%84%EA%B3%BC-%EC%BF%A0%ED%82%A4%5D)    
 >>[12장] [기본 인증](https://github.com/m3252/http-definitive-guide/wiki/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-3%EB%B6%80-%5B12%EC%9E%A5-%EA%B8%B0%EB%B3%B8-%EC%9D%B8%EC%A6%9D%5D)  
->>[14장] [보안 HTTP]()  
+>>[14장] [보안 HTTP](https://github.com/m3252/http-definitive-guide/wiki/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-3%EB%B6%80-%5B14%EC%9E%A5-%EB%B3%B4%EC%95%88-HTTP%5D)  
 
 
 >## 부록
