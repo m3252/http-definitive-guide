@@ -23,4 +23,7 @@
 
 >## 부록
 >>[캐시 부록] [캐시 메모리](https://github.com/m3252/http-definitive-guide/wiki/%EC%BA%90%EC%8B%9C-%EB%B6%80%EB%A1%9D-%5B%EC%BA%90%EC%8B%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%5D)  
->>[HTTP 부록] [HTTP 더 알아보기](https://github.com/m3252/http-definitive-guide/wiki/%5BHTTP-%EB%B6%80%EB%A1%9D%5DHTTP-%EB%8D%94-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0%1C)  
+>>[HTTP 부록] [HTTP 더 알아보기](https://github.com/m3252/http-definitive-guide/wiki/%5BHTTP-%EB%B6%80%EB%A1%9D%5DHTTP-%EB%8D%94-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0%1C)   
+>>[REST API] [REST API 정리]()  
+
+
